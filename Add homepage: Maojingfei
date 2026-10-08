@@ -1,0 +1,30 @@
+# 我的个人主页
+- 姓名或昵称：毛婧霏
+- GitHub 用户名：Maojingfei
+- 主页仓库：https://github.com/Maojingfei/Maojingfei.github.io
+
+## 我修改了什么
+- 修改了主页仓库的_config.yml与_pages中的about.md为我的个人信息
+
+about.md的修改内容
+# Introduction
+我是毛婧霏，学习方面初步掌握了python基础等等，目前在学C++的基础部分，采用了线上网课与线下看推荐的书的方式，对人工智能方向有很大学习兴趣，虽然目前还有些迷茫，但我能感受到我的目标每天都能比前一天更清晰，我相信我能稳扎稳打走好每一步
+# 🔥 News
+2026 10.3~10.6 最近的news是在这几天提前回学校看了一些C++课程，但在自己动手做的时候遇到许多莫名的报错，在询问ai等方式下还算顺利
+2026 10.1~10.7 把群里的超算介绍看了一遍，用给的方法做了枪击小游戏，看了相关的b站视频，配置了Linux等等
+# 📖 Educations
+2026 9~至今 福州大学 大一
+
+_config.yml的修改内容
+# Site Settings
+title                    : "Maojingfei"
+description              : "Undergraduate Student at Fuzhou University "
+repository               : "Maojingfei.github.io"
+# Site Author
+author:
+  name             : "Maojingfei"
+  avatar           : "images/android-chrome-512x512.png"
+  bio              : "Undergraduate Student at Fuzhou University"
+  location         : "Fujian, China"
+  email            : "3642395335@qq.com"
+  github           :  "Maojingfei"
